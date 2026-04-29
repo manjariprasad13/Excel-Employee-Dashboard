@@ -30,13 +30,13 @@ The dataset includes:
   - Pie Chart
   - Line Chart
 ## Screenshots
-### 🔹 Raw Data
+### Raw Data
 ![Raw Data](raw_data.png)
 
-### 🔹 Dashboard View
+### Dashboard View
 ![Dashboard](nagpur.png)
 
-### 🔹 Dashboard View
+### Dashboard View
 ![Dashboard](surat.png)
 
 ## Key Insights
