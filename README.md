@@ -19,7 +19,7 @@ The dataset includes:
 - Microsoft Excel
 - Data Cleaning & Structuring
 - Data Visualization (Charts)
-- 
+
 ## Dashboard Features
 - Total Sales by Employee
 - Target Achievement %
